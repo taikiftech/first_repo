@@ -12,4 +12,4 @@ https://github.com/taikif
 https://taikif.dev
 
 デジタル名刺はこちらです。
-[https://prairie.cards/u/taikif](https://my.prairie.cards/u/taikif)
+[https://my.prairie.cards/u/taikif](https://my.prairie.cards/u/taikif)
